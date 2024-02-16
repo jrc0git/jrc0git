@@ -20,7 +20,7 @@ Education 🌱 :
 
 Interests 🔭 :
 - Math
-- Machine learning
+- ML
 
 https://jrc0git.github.io/
 
