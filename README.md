@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to my personal site!
+
+Interests 🔭 :
+- Mathematics
+- ML
+
 https://jrc0git.github.io/
-## Education
-### Bachelor of Mathematics (University of Valencia)
-### Data Sciente Master (University of Alicante)
+
 
