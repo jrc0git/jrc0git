@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Interests 🔭 :
-- Mathematics
-- ML
+Education 🔭 :
+- Bachelor of Mathematics
+- Data Science
 
 https://jrc0git.github.io/
 
