@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Education 🌱 :
-- Bachelor of Mathematics
-- Data Science Master
+- Bachelor Mathematics
+- Master Data, AI
 
 Interests 🔭 :
 - Math
